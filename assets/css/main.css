@@ -1526,6 +1526,10 @@ ul.contact-icons.color4 > li:before {
   color: #353865;
 }
 
+.contact-icons a {
+  color: #353865;
+}
+
 /* Table */
 
 .table-wrapper {
