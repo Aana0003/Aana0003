@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Food and Tech.
 - 📫 How to reach me: https://github.com/Aana0003.
 - 😄 Pronouns: HerShe.
-- ⚡ Fun fact: Avid Fiction Reade.
+- ⚡ Fun fact: Avid Fiction Reader.
